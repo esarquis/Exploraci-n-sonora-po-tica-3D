@@ -1,1 +1,2 @@
-# Exploraci-n-sonora-po-tica-3D
+Exploracion sonora poetica 3d
+
